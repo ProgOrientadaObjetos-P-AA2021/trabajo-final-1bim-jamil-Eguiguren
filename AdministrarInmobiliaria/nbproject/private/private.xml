@@ -3,13 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paqueteuno/Ejecutor.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paquetetres/Ubicacion.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paquetedos/Propietario.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paquetecuatro/Ciudad.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paquetecinco/Constructora.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paqueteseis/Departamento.java</file>
-            <file>file:/home/reroes/Documentos/clasesUTPLabril-agosto2020/POO-presencial/primer-bimestre/trabajo-final-primer-bimestre/trabajo-final-1bim/AdministrarInmobiliaria/src/paqueteseis/Casa.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paquetecinco/Constructora.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paqueteseis/Casa.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/leerarchivocasas/EscribirArchivoCasa.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escrivirarchivodepartamentos/EscribirArchivoDepartamento.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escrivirarchivodepartamentos/LeerArchivoDepartamento.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escribirarchivoubicaciones/LeerArchivoUbicacion.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escribirarchivoconstructoras/EscribirArchivoConstructora.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paqueteseis/Departamento.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paquetecuatro/Ciudad.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/lecturaarchivoPropietario/EscribirArchivoPropietario.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escribirarchivoconstructoras/LeerArchivoConstructora.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/leerarchivocasas/LeerArchivoCasa.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paqueteuno/Ejecutor.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/lecturaarchivociudades/LeerArchivoCiudad.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paquetetres/Ubicacion.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/paquetedos/Propietario.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/lecturaarchivociudades/EscribirArchivoCiudad.java</file>
+            <file>file:/C:/Users/jamil/Desktop/UTPL/CICLO%202/Programacion/TRABAJO%20FINAL/trabajo-final-1bim-jamil-Eguiguren/AdministrarInmobiliaria/src/escribirarchivoubicaciones/EscribirArchivoUbicacion.java</file>
         </group>
     </open-files>
 </project-private>

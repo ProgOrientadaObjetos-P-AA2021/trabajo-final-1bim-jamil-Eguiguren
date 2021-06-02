@@ -5,10 +5,50 @@
  */
 package paquetedos;
 
+import java.io.Serializable;
+
 /**
  *
  * @author reroes
  */
-public class Propietario {
+public class Propietario  implements Serializable{
+    private String nomb;
+    private String apell;
+    private String id;
+    
+    
+    public Propietario (String nombr, String apelli, String ide){
+        nomb = nombr;
+        apell = apelli;
+        id = ide;
+    }
+
+    
+    
+    public void establecerNombre(String nombr){
+        nomb = nombr;        
+    }
+    
+    public void establecerApellido(String apelli){
+        apell = apelli;        
+    }
+        public void establecerId(String ide){
+        id = ide;        
+    }
+  
+    
+    
+    public String obtenerNombre() {
+        return nomb;
+    }
+    
+    public String obtenerApellido() {
+        return apell;
+    }
+    public String obtenerId() {
+        return id;
+    }
     
 }
+
+
